@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Sender Name": "Insured Company Name"
+    },
+    {
+      "id": 2,
+      "Sender Account Number": "AT61 1904 3002 3457 3201"
+    },
+    {
+      "id": 3,
+      "Sender Bank": "BANKATDM"
+    }
+  ],
+  "value": [
+    {
+      "id": 1,
+      "body": "100.00",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "EUR",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Our Demo Austrian Bank"
+  }
+}
