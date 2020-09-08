@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Sender Name": "BSCHBRSPXXX"
+    }
+  ],
+  "value": [
+    {
+      "id": 1,
+      "body": "155411.4",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "08.09.2020",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "CONDOMINIO JORDANESIA",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "01969189738010120",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "BRL",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Our Demo Bank"
+  }
+}
